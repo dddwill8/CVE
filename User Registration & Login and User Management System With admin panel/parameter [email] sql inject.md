@@ -17,4 +17,6 @@ send=aaa&femail=asd*
 
 SQLmap run
 sqlmap -r post.txt
+
+
 ![alt text](password-recovery.php%20sql%20inject-1.png)
