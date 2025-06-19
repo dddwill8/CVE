@@ -17,7 +17,7 @@ Content-Type: application/x-www-form-urlencoded
 
 update=a&currentpassword=aa*
 
-sqlmap sqlmap -r post.txt
+sqlmap -r post.txt
 
 
 ![alt text](change-password.php%20sql%20inject-2.png)
