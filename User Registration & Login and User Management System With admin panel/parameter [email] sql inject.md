@@ -1,4 +1,6 @@
 password-recovery.php文件中$femail直接拼接到sql语句中，而$femail是通过POST请求直接获取的
+
+
 ![alt text](password-recovery.php%20sql%20inject-1.png)
 
 
